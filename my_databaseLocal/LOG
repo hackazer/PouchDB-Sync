@@ -1,0 +1,5 @@
+2019/02/26-08:02:48.230 7cc Recovering log #30
+2019/02/26-08:02:48.230 7cc Level-0 table #33: started
+2019/02/26-08:02:48.284 7cc Level-0 table #33: 1204 bytes OK
+2019/02/26-08:02:48.386 7cc Delete type=0 #30
+2019/02/26-08:02:48.388 7cc Delete type=3 #28
